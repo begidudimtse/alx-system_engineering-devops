@@ -1,2 +1,5 @@
 #!/bin/bash
 rm /tmp/betty /tmp/my_first_directory
+[master 3b28049] Task 8
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/8-firstdelete
